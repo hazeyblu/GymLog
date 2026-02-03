@@ -21,12 +21,3 @@ GymLog is a mobile-first Streamlit app for logging gym workouts with a linear, o
    ```bash
    streamlit run app.py
    ```
-
-## Notes
-- `user.csv` is local-only and should never be committed.
-- `logs/` can be empty in the repo, but must exist for runtime writes.
-
-## Admin Scripts
-- `scripts/sync_user_from_csv.py` — add/update a user from `user.csv`.
-- `scripts/delete_users.py` — delete users and their logs.
-
