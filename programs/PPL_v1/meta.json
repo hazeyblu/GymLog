@@ -1,1 +1,55 @@
-
+{
+  "program_name": "PPL_v1",
+  "days": [
+    {
+      "day_id": 1,
+      "day_name": "Monday"
+    },
+    {
+      "day_id": 2,
+      "day_name": "Tuesday"
+    },
+    {
+      "day_id": 3,
+      "day_name": "Wednesday"
+    },
+    {
+      "day_id": 4,
+      "day_name": "Thursday"
+    },
+    {
+      "day_id": 5,
+      "day_name": "Friday"
+    },
+    {
+      "day_id": 6,
+      "day_name": "Saturday"
+    }
+  ],
+  "workouts": [
+    {
+      "day_id": 1,
+      "workout_name": "Push Strength"
+    },
+    {
+      "day_id": 2,
+      "workout_name": "Pull Strength"
+    },
+    {
+      "day_id": 3,
+      "workout_name": "Legs Strength"
+    },
+    {
+      "day_id": 4,
+      "workout_name": "Push Hypertrophy"
+    },
+    {
+      "day_id": 5,
+      "workout_name": "Pull Hypertrophy"
+    },
+    {
+      "day_id": 6,
+      "workout_name": "Legs Hypertrophy"
+    }
+  ]
+}
