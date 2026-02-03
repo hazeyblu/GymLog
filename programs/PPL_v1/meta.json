@@ -1,5 +1,5 @@
 {
-  "program_name": "PPL_v1",
+  "program_name": "Push Pull Legs",
   "days": [
     {
       "day_id": 1,
@@ -52,4 +52,5 @@
       "workout_name": "Legs Hypertrophy"
     }
   ]
+
 }
